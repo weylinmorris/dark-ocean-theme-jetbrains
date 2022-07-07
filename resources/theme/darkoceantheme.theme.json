@@ -1,0 +1,20 @@
+{
+  "name": "Dark-ocean-theme",
+  "author": "Weylin Morris",
+  "dark": true,
+
+  "ui": {
+    "*": {
+      "background": "#000000",
+      "foreground": "#278cc2",
+      "selectionBackground": "#0e6c74",
+      "selectionForeground": "#ffffff",
+      "selectionInactiveBackground": "#002a2d",
+      "selectionBackgroundInactive": "#000000"
+    },
+    "Label.foreground": "#278cc2",
+    "Label.background": "#000000",
+    "Panel.background": "#000000",
+    "Window.border": "4,4,4,4,278cc2"
+  }
+}
